@@ -9,10 +9,8 @@ from datetime import datetime
 # Appendix
 # ========
 
-
-# some comment has changed sdf
-# an additional comment live
-person = choice(person)
+# the line below has been commented ou because it was useless
+#person = choice(person)
 
 # get index and values from a collection
 my_collection = ['a', 'b', 'c']
