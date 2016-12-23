@@ -6,8 +6,9 @@ import numpy as np
 import pandas as pd
 from numpy.random import randn
 
-x = [3,2,1,0]
-y = [1,2,4,3]
+# fixed spacing issues
+x = [3, 2, 1, 0]
+y = [1, 2, 4, 3]
 data = randn.random(30).cumsum()
 
 # =======================================
