@@ -7,7 +7,7 @@ from datetime import datetime
 # Appendix
 # ========
 
-# fixed various small issues in file_2.py
+# fixed various very small issues in file_2.py
 
 # get index and values from a collection
 my_collection = ['a', 'b', 'c']
