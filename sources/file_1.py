@@ -9,8 +9,8 @@ from datetime import datetime
 # Appendix
 # ========
 
-# the line below has been commented ou because it was useless
-#person = choice(person)
+# the line below has been updated to fix the bug
+person_123 = choice(['a', 'v', 'c'])
 
 # get index and values from a collection
 my_collection = ['a', 'b', 'c']
