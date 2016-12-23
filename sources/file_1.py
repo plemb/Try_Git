@@ -9,6 +9,12 @@ from datetime import datetime
 # Appendix
 # ========
 
+# a few more comments will make it more readable
+# comment 1
+# comment 2
+# comment 3
+
+
 # the line below has been updated to fix the bug
 person_123 = choice(['a', 'v', 'c'])
 
