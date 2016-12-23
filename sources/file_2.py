@@ -7,7 +7,9 @@ from datetime import datetime
 # Appendix
 # ========
 
-# get index and values from a collection qsd
+# fixed various small issues in file_2.py
+
+# get index and values from a collection
 my_collection = ['a', 'b', 'c']
 for i, value in enumerate(my_collection):
     print(i, my_collection[i])
